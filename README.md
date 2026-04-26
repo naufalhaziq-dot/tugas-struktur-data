@@ -1,4 +1,4 @@
-# Tugas Struktur Data
+# Tugas Struktur data (Linked List & Stack dan Queue)
 
 Nama: Naufalhaziq Azfarimifdhal Agfi
 Student Id: 2902716831
